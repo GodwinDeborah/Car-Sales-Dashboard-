@@ -16,7 +16,11 @@
 
 ## 1. Project Overview
 
+The Car Sales Dashboard is a Tableau-based analytics project designed to explore vehicle sales performance across different manufacturers, dealer regions, vehicle categories, and customer segments. The dashboard consolidates key sales metrics and interactive visualizations to provide insights into revenue trends, sales volume, pricing performance, and customer preferences. By enabling users to analyze sales data from multiple perspectives, the dashboard supports a deeper understanding of performance patterns and business outcomes.
+
 ## 2. Project Objectives
+
+The objective of this project is to develop an interactive Tableau dashboard that provides a comprehensive view of vehicle sales performance. The dashboard is designed to analyze key sales metrics, including total sales, average selling price, and vehicles sold, while tracking year-over-year performance trends. It also enables the exploration of sales distribution across manufacturers, vehicle body styles, colors, and dealer regions, helping users identify patterns in customer preferences and sales activity. Through interactive visualizations and filtering capabilities, the dashboard supports the effective analysis and communication of sales insights.
 
 ## 3. Project Tools
 
