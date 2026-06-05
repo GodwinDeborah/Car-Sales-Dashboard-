@@ -34,7 +34,7 @@ The objective of this project is to develop an interactive Tableau dashboard tha
 Car-Sales-Dashboard/
 │
 ├── dashboard/
-│   └── Car Sales Dashboard.pbix
+│   └── Car Sales Dashboard.twbx
 │
 ├── data/
 │   └── Car Sales Data.xlsx
@@ -51,10 +51,12 @@ Car-Sales-Dashboard/
 ```
 
 ## 5. Dataset Overview
-The dataset contains vehicle sales transaction records and related customer information. It includes details on vehicle models, manufacturers, transmission types, engine specifications, body styles, colors, pricing, dealer regions, and customer demographics. The data is used to analyze sales performance, customer purchasing patterns, and regional sales trends.
+
+The dataset contains vehicle sales transaction records and customer-related information used to analyze sales performance and purchasing trends. Key attributes include vehicle manufacturer, model, body style, transmission type, color, engine specifications, sales price, dealer region, and customer demographics. These fields support the exploration of revenue performance, customer preferences, and regional sales distribution.
 
 ## 6. Dashboard Overview
-The Car Sales Dashboard provides an interactive view of vehicle sales performance across manufacturers, body styles, dealer regions, and customer segments. Built in Tableau, the dashboard enables users to monitor key sales KPIs, track year-over-year performance, analyze sales trends, and explore customer purchasing patterns through dynamic visualizations and filters.
+
+The dashboard consists of KPI cards, trend visualizations, comparative charts, and interactive filters that enable users to analyze vehicle sales performance from multiple perspectives. Users can monitor revenue growth, evaluate sales volume trends, compare manufacturer performance, assess regional sales distribution, and explore customer purchasing preferences through a single interactive interface.
 
 ## 7. Dashboard Screenshot
 ![Car Sales Dashboard](Images/car_sales_dashboard.jpg)
@@ -102,9 +104,10 @@ The Car Sales Dashboard provides an interactive view of vehicle sales performanc
 - Add advanced drill-through functionality to enable deeper exploration of sales performance across regions, vehicle categories, and customer segments.
 
 ## 12. Author
-**Godwin Deborah**
 
+**Godwin Deborah**  
 Data Analyst
-- 🔗 [Linkedin](https://www.linkedin.com/in/godwin-deborah-163b10398/?skipRedirect=true)
-- 💼 [GitHub](https://github.com/GodwinDeborah)
-- 📧 [Email](mailto:debbiegodwin001@gmail.com)
+
+- LinkedIn: https://www.linkedin.com/in/godwin-deborah-163b10398/
+- GitHub: https://github.com/GodwinDeborah
+- Email: debbiegodwin001@gmail.com
