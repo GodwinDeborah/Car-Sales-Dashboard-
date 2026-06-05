@@ -30,7 +30,7 @@ The objective of this project is to develop an interactive Tableau dashboard tha
 ## 4. Project Tools
 
 * **Tableau** — Dashboard development, data visualization, and interactive reporting.
-* **CSV Dataset** — Source data used for sales analysis, trend identification, and performance evaluation.
+* **Excel Dataset (.xlsx)** — Source data used for sales analysis, trend identification, and performance evaluation.
 * **Git & GitHub** — Version control, project organization, and documentation management.
 
 ## 5. Repository Structure
@@ -45,11 +45,11 @@ Car-Sales-Dashboard/
 │   └── Car Sales Data.xlsx
 │
 ├── docs/
-│   ├── business-requirements.md
-│   └── insights-report.md
+│   ├── Business-Requirements.md
+│   └── Insights-Report.md
 │
 ├── images/
-│   └── Car Sales Dashboard.jpg
+│   └── car_sales_dashboard.jpg
 │
 ├── LICENSE
 └── README.md
@@ -113,6 +113,6 @@ The dashboard consists of KPI cards, trend visualizations, comparative charts, a
 **Godwin Deborah**  
 Data Analyst
 
-- LinkedIn: https://www.linkedin.com/in/godwin-deborah-163b10398/
-- GitHub: https://github.com/GodwinDeborah
-- Email: debbiegodwin001@gmail.com
+- 🔗 LinkedIn: [Godwin Deborah](https://www.linkedin.com/in/godwin-deborah-163b10398/)
+- 💼 GitHub: [GodwinDeborah](https://github.com/GodwinDeborah)
+- 📧 Email: [debbiegodwin001@gmail.com](mailto:debbiegodwin001@gmail.com)
