@@ -20,7 +20,31 @@
 
 ## 3. Project Tools
 
+* **Tableau** — Dashboard development, data visualization, and interactive reporting.
+* **CSV Dataset** — Source data used for sales analysis, trend identification, and performance evaluation.
+* **Git & GitHub** — Version control, project organization, and documentation management.
+
 ## 4. Repository Structure
+
+```text
+Car-Sales-Dashboard/
+│
+├── dashboard/
+│   └── Car Sales Dashboard.pbix
+│
+├── data/
+│   └── Car Sales Data.xlsx
+│
+├── docs/
+│   ├── business-requirements.md
+│   └── insights-report.md
+│
+├── images/
+│   └── Car Sales Dashboard.jpg
+│
+├── LICENSE
+└── README.md
+```
 
 ## 5. Dataset Overview
 The dataset contains vehicle sales transaction records and related customer information. It includes details on vehicle models, manufacturers, transmission types, engine specifications, body styles, colors, pricing, dealer regions, and customer demographics. The data is used to analyze sales performance, customer purchasing patterns, and regional sales trends.
